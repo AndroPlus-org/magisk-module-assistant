@@ -1,0 +1,6 @@
+id=android-assistant-stub
+name=Google Assistant Enabler
+version=v01
+versionCode=1
+author=AndroPlus
+description=Enable Google Assistant and hide save dialog of Google Photo
